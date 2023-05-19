@@ -1,28 +1,5 @@
 /* Ex 7 Constraints */
 
-/*The deliverable for this exercise is a Word document. Put your name
-and the exercise number (Ex 7) as a header in a Word document 
-as you begin the exercise. Name the Word document 
-ex7_lastname_firstname_section#.docx.*/
-
-/*Here in the exercise instructions, you are prompted to (1) complete 
-tasks, (2) take screen shots that document your hands-on work and 
-insert them into the deliverable document, and/or (3) write something 
-in the deliverable document. Use the Windows Snipping Tool or something 
-like it to capture just the portion of the screen you need to document 
-your work.
-
-Whenever you capture work with a screenshot, include your name in 
-the screenshot. This guideline applies to any screenshots you take 
-to document your hands-on work throughout the semester. You may not 
-get credit for something if you do not include your name as 
-requested. */
-
-
-/* The tasks refer to the ITAM schema tables that you created on your
-own instance of Oracle in the cloud. */
-
-
 /* Task 1. Create a Default Constraint
 A default constraint can added to a column to help assure domain
 integrity. These are added using the alter table command as demonstrated in class. 
